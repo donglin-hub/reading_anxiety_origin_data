@@ -1,0 +1,17 @@
+[Object0]
+Name=black
+WindowState=0
+Left=76
+Top=76
+Width=1191
+Height=487
+[Object1]
+Name=probe
+WindowState=0
+Left=0
+Top=0
+Width=761
+Height=302
+[Object2]
+Name=instruction
+WindowState=2
